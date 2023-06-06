@@ -56,4 +56,4 @@ My name is Bulat Isanbirdin. I am a Java Developer <img src="https://media.giphy
 
 ### :writing_hand: My works :
 
-[All my works](https://github.com/bisanbirdin/myProgect): [spring-boot-news](https://github.com/bisanbirdin/myProgect/tree/main/Spring-boot-news)
+[All my works](https://github.com/bisanbirdin/myProgect): [Spring-boot-news](https://github.com/bisanbirdin/myProgect/tree/main/Spring-boot-news), [innopolis-course-work](https://github.com/bisanbirdin/myProgect/tree/main/Innopolis-course-work)
