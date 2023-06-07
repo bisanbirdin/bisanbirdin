@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <h1>
-  hey there
+  Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -16,17 +16,18 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
-My name is Bulat Isanbirdin. I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Меня зовут Булат. Я Java программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :telescope: I’m working as a Java Developer and contributing of microservices and internal services for the web site.
+- :telescope: Я работаю Java программистом и пишу микросервисы и внутренние сервисы для сайта.
 
-- :zap: In my free time, I write in Python, study Java and English.
+- :zap: В свободное время изучаю углубленно Java, пишу на Python, учу английский.
 
+- :notebook: Учился я в КГАСУ по специльности "Информационные системы и технологии". После учебы устроился инженером в строительстве и понял, что делать одно и то же не для меня :dizzy_face:. Решил уйти в программирование, где нужно развиваться каждый день и нельзя стоять на месте :shark:. В течении 3-х месяцев самостоятельно изучал Java, после чего прошел на курсы от Иннополиса "Введение в разработку корпоративных приложений на Java", сдал курсовую работу и через несколько месяцев смог устроиться Java программистом в Ижевске. Успешно прошел испытательный срок и теперь развиваюсь ежденевно :fire: Сейчас пишу микросервисы и внутренние сервисы. Парсим данные из разных источников; интегрируем Java и Scala, для обработки больших объемов данных при помощи Apache Spark; храним все в PostgreSQL и Apache Solr; тестим код при помощи JUnit и Mockito; постоянно работаем с Collections, Stream API, Multithreading; естестетсвенно использутся Docker, Git, Maven, Linux. И это только начало! Стек технологий и знаний будет расти :100:
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -47,13 +48,15 @@ My name is Bulat Isanbirdin. I am a Java Developer <img src="https://media.giphy
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bisanbirdin&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisanbirdin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: My works :
+### :writing_hand: Мои работы :
+
+:arrow_down: Ниже вы можете ознакомиться с приерами некоторых моих работ :arrow_down:
 
 [All my works](https://github.com/bisanbirdin/myProgect): [Spring-boot-news](https://github.com/bisanbirdin/myProgect/tree/main/Spring-boot-news), [innopolis-course-work](https://github.com/bisanbirdin/myProgect/tree/main/Innopolis-course-work)
